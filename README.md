@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/Onwodis/menubarai-showcase/main/menubar.png)
 # 🍽️ MenubarAI – Smart QR Menu & Ordering SaaS for the Hospitality Industry
 
 **MenubarAI** is a full-fledged, production-grade SaaS solution that transforms how restaurants, hotels, bars, and lounges manage digital menus and receive customer orders. 
