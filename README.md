@@ -8,6 +8,16 @@ Built from scratch by **Samuel Onwodi**, MenubarAI is proudly developed in **Nig
 🔗 **Live Site:** [https://menbar.com.ng](https://menbar.com.ng)
 
 ---
+## 🛠 Tech Stack
+
+
+- WebSocket
+- Next.js
+- TypeScript
+- MongoDB
+- Node.js
+- Express
+- Tailwind CSS
 
 ## 🧑‍💼 About the Product
 
